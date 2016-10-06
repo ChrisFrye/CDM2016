@@ -23,12 +23,12 @@ To determine how the piece of music is supported by the Fair Use, there are four
 The purpose of the use is to demonstrate the vocal talents of a young Pittsburgh student trying to share his mixtape with a broader audience. He is using the sound file for a non-profit purpose to get recognized as a rapper with different types of lyrical volumes. This sound file sets up the entire song and allows the rapper to explain what happens throughout the rap. Noah sings about how he went through a tough school and how he could not afford mateirals such as books and notebooks. He does not mention the name Billy Madison or any other characters from the movie in his rap song. The song also does not revolve around the plot of *Billy Madison* and the purpose is not to take away views and money from the actors or the production company behind Billy Madison. 
 
 ###Nature
-The nature of the copyright work is in video form and mp3 sound files. The main source of his song is found on his [youtube channel](https://www.youtube.com/watch?v=YnQQM7nKh74). This is where he uses a stationary picture from the movie while the song is being played.The image for the YouTube video is not from the scene from which the audio is taken. He uses this photo to ensure that users will not know what the movie is about and not deter users from watching the youtube video instad of the 1995 movie. The mp3 sound file can be found on [SoundCloud](https://soundcloud.com/noah-gottaboa), which is a website that allows for free creation of music for users to download for free. In the song, Noah talks over the recording of *Billy Madison* and interacts with the sound file as if he is engaged in a conversation. He does leave the sound file playing alone and lowers the volumne of the file in order for the listen to hear him interact. The nature of the work is to establish a nostalgia with the audience and introduce a comedic effect into the song. 
-
-| Sources of Artists music   |    definition     |
+| Sources of Artists music   |    Type of source     |
 |----------|:-------------:|
-| Youtube |  left-aligned |
-| Soundcloud |    centered   |
+| YouTube |  Free video upload website that incorperates own copyright rules and upholds copyright laws  |
+| Soundcloud |  website that allows users to create any type of mixtape and post freely for users to download for free  |
+
+The nature of the copyright work is in video form and mp3 sound files. The main source of his song is found on his [youtube channel](https://www.youtube.com/watch?v=YnQQM7nKh74). This is where he uses a stationary picture from the movie while the song is being played.The image for the YouTube video is not from the scene from which the audio is taken. He uses this photo to ensure that users will not know what the movie is about and not deter users from watching the youtube video instad of the 1995 movie. The mp3 sound file can be found on [SoundCloud](https://soundcloud.com/noah-gottaboa), which is a website that allows for free creation of music for users to download for free. In the song, Noah talks over the recording of *Billy Madison* and interacts with the sound file as if he is engaged in a conversation. He does leave the sound file playing alone and lowers the volumne of the file in order for the listen to hear him interact. 
 
 
 ###Amount
@@ -37,6 +37,8 @@ The amount of the material that is used is an important factor when discussing f
 * The sound file last 40 seconds out of the hour and 30 minute film, which is les than 10% of the whole work
 * The sound file only exists in the beginning of the song and is not re used in its entirity in the song
 * If a user decides to listen to the mp3, the user will not be able to know the entire movie premise and would not know where the audio is unless the user has seen the film
+
+There is not enough of the copyrighted material for a user to know the plot of *Billy Madison*. The amount used is just to establish a nostalgia with the audience who have seen the movie and introduce a comedic effect into the song.
 
 ###Effect of Use
 
