@@ -25,7 +25,7 @@ The purpose of the use is to demonstrate the vocal talents of a young Pittsburgh
 ###Nature
 | Sources of Artists music   |    Type of source     |
 |----------|:-------------:|
-| YouTube |  Free video upload website that incorperates own copyright rules and upholds copyright laws  |
+| YouTube |  Free video upload website that incorperates own copyright rules, conducts hearings at own copyright court and upholds copyright laws  |
 | Soundcloud |  website that allows users to create any type of mixtape and post freely for users to download for free  |
 
 The nature of the copyright work is in video form and mp3 sound files. The main source of his song is found on his [youtube channel](https://www.youtube.com/watch?v=YnQQM7nKh74). This is where he uses a stationary picture from the movie while the song is being played.The image for the YouTube video is not from the scene from which the audio is taken. He uses this photo to ensure that users will not know what the movie is about and not deter users from watching the youtube video instad of the 1995 movie. The mp3 sound file can be found on [SoundCloud](https://soundcloud.com/noah-gottaboa), which is a website that allows for free creation of music for users to download for free. In the song, Noah talks over the recording of *Billy Madison* and interacts with the sound file as if he is engaged in a conversation. He does leave the sound file playing alone and lowers the volumne of the file in order for the listen to hear him interact. 
@@ -42,6 +42,6 @@ There is not enough of the copyrighted material for a user to know the plot of *
 
 ###Effect of Use
 
-The effect of using the movie’s audio for a potential market does not affect the artist’s song. The artist distributed this song on a CD free to any student at the university of Pittsburgh and has released his mixtape on the website Sound Cloud. Sound cloud is a free music site that allows artist to release songs on their own and allow users to download free of charge. 
+The effect of using the movie’s audio for a potential market does not affect the artist’s song. The movie has been avaliable for many years before this mixtape has come out and has become a classic movie to Adam Sandler fans. The creation of this song was created this year, which allows any user to watch the movie before listening to the song. The artist distributed this song on a CD free to any student at the University of Pittsburgh in the past month and has released his mixtape on the website Sound Cloud. If anything, the song will cause interest to the user to purchase/watch the movie and watch to further understand the use in the song. The song pays homage to *Billy Madison* and the artist does not have the intent of taking any money from the song. 
 
 
