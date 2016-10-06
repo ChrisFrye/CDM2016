@@ -25,10 +25,10 @@ The purpose of the use is to demonstrate the vocal talents of a young Pittsburgh
 ###Nature
 | Sources of Artists music   |    Type of source     |
 |----------|:-------------:|
-| YouTube |  Free video upload website that incorperates own copyright rules, conducts hearings at own copyright court and upholds copyright laws  |
-| Soundcloud |  website that allows users to create any type of mixtape and post freely for users to download for free  |
+| YouTube | A video upload website that incorperates own copyright rules, conducts hearings at own copyright court and upholds copyright laws. A user can create a free account and can post any video they would like on their YouTube channel for their audience.  |
+| Soundcloud | A website that allows users to create any type of mixtape and post freely for users to download for free. Millions of mixtapes of music and movies exist on the website for a user to explore.   |
 
-The nature of the copyright work is in video form and mp3 sound files. The main source of his song is found on his [youtube channel](https://www.youtube.com/watch?v=YnQQM7nKh74). This is where he uses a stationary picture from the movie while the song is being played.The image for the YouTube video is not from the scene from which the audio is taken. He uses this photo to ensure that users will not know what the movie is about and not deter users from watching the youtube video instad of the 1995 movie. The mp3 sound file can be found on [SoundCloud](https://soundcloud.com/noah-gottaboa) where anyone can download and share his song. In the song, Noah talks over the recording of *Billy Madison* and interacts with the sound file as if he is engaged in a conversation. He does not leave the sound file playing alone and lowers the volumne of the file in order for the listen to hear him interact. 
+The nature of the copyright work is in video form and mp3 sound files. The main source of his song is found on his [YouTube channel](https://www.youtube.com/watch?v=YnQQM7nKh74). This is where he uses a stationary picture from the movie while the song is being played.The image for the YouTube video is not from the scene from which the audio is taken. He uses this photo to ensure that users will not know what the movie is about and not deter users from watching the youtube video instad of the 1995 movie. The mp3 sound file can be found on [SoundCloud](https://soundcloud.com/noah-gottaboa) where anyone can download and share his song. In the song, Noah talks over the recording of *Billy Madison* and interacts with the sound file as if he is engaged in a conversation. He does not leave the sound file playing alone and lowers the volumne of the file in order for the listen to hear him interact. 
 
 
 ###Amount
